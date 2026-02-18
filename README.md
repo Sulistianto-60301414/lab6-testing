@@ -10,7 +10,7 @@ A Flask-based web application for managing contacts. This application intentiona
 
 ## Installation Instructions
 
-### Clone the Repository
+### Clone the Repository sss
 ```bash
 git clone <repository-url>
 cd lab6
